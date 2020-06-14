@@ -6,7 +6,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Projet en C++ de casino</h1>
+      <h1>Projet en C++ de casino/2019</h1>
       <table class="table">
         <thead>
           <tr>
