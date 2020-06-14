@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555605076 source:c:\users\kanty\downloads\video\boss\epsi\conception d'objet lan(c++)\projet casino\main.cpp
+	"casino.h"
+	<vector>
+	<map>
+
+1555605223 c:\users\kanty\downloads\video\boss\epsi\conception d'objet lan(c++)\projet casino\casino.h
+	<iostream>
+	<math.h>
+	<complex>
+	<string>
+	<stdlib.h>
+
